@@ -1,0 +1,16 @@
+text.color: "#0f172a"
+font.sans-serif: Avenir Next, Segoe UI
+axes.facecolor: "#faefd9"
+figure.facecolor: "#faefd9"
+axes.edgecolor: "#756591"
+axes.labelcolor: "#64748b"
+axes.linewidth: 0
+axes.labelsize: 12
+axes.labelweight: light
+axes.labelpad: 16
+axes.titlepad: 16
+axes.titlecolor: "#f46b5cff"
+axes.titlesize: 16
+axes.titleweight: bold
+axes.prop_cycle: cycler('color', ['756591ff','f4aa0eff','45bea5ff','0c467cff','f5a296ff','f46b5cff','c15c41ff'])
+grid.color: "#64748b"
